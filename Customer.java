@@ -1,7 +1,7 @@
 import java.util.*;
 class Customer
 {
-	 public static String bankName = "DURGABANK";
+	 public static String bankName = "ABHIBANK";
 	public String name;
 	public double balance;
 	Customer(String name)
